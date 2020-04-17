@@ -34,4 +34,6 @@ Nope.
 
 If you want to see what resources htop is using, sure.
 
+![Screenshot](https://raw.githubusercontent.com/lethosor/htop-docker/master/screenshot2.png)
+
 (Actually, [other people](https://hub.docker.com/search?q=htop&type=image) have built similar images, so it's probably useful to monitor other containers. Doing so is left as an exercise to the reader.)
